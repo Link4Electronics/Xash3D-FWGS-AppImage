@@ -11,7 +11,6 @@ pacman -Syu --noconfirm \
     libdecor \
     python   \
     sdl2
-    
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
